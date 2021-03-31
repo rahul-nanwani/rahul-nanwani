@@ -1,9 +1,8 @@
 <p><img align="right" src="https://komarev.com/ghpvc/?username=rahul-nanwani&label=Profile%20views&color=7289DA&style=flat" alt="rahulnanwani" /></p>
-<p align="center">
 <br>
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img width="500" src="https://github-readme-stats.vercel.app/api?username=rahul-nanwani&show_icons=true&theme=dark&count_private=true" /></a>
 <br>
-
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=rahul-nanwani&theme=dark" alt="rahul-nanwani" /></a>
 <br>
 </p>
