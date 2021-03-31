@@ -9,7 +9,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img width="500" src="https://github-readme-stats.vercel.app/api?username=rahul-nanwani&show_icons=true&theme=dark&count_private=true" /></a></br>
 <a href="https://discordapp.com/users/458279513349160963"><img src="https://img.shields.io/badge/Discord-WOLF%231830-7289DA?logo=discord&style=for-the-badgel" /></a>
 
-<a href="https://linkedin.com/in/kablekompany" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kablekompany" height="30" width="40" /></a>
-<a href="https://twitter.com/kablekompany" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kablekompany" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-nanwani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahulnanwani" height="30" width="40" /></a>
+<a href="https://twitter.com/rahul_nanwani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahulnanwani" height="30" width="40" /></a>
 </p>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=kablekompany&label=Profile%20views&color=0e75b6&style=flat" alt="kablekompany" /></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=rahul-nanwani&label=Profile%20views&color=0e75b6&style=flat" alt="rahulnanwani" /></p>
