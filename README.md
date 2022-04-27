@@ -12,5 +12,5 @@
 <!--
 <a href="https://discordapp.com/users/458279513349160963" target="_blank"><img src="https://img.shields.io/badge/Discord-WOLF%231830-7289DA?logo=discord&style=for-the-badge1" /></a>
 -->
-<a href="https://twitter.com/rahul_nanwani" target="_blank"><img src="https://img.shields.io/twitter/follow/rahul_nanwani?logo=twitter&style=for-the-badge1" alt="inkedmyth" /></a>
+<a href="https://twitter.com/inkedmyth" target="_blank"><img src="https://img.shields.io/twitter/follow/inkedmyth?logo=twitter&style=for-the-badge1" alt="inkedmyth" /></a>
 </p>
