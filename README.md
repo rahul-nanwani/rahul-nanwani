@@ -6,11 +6,9 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=rahul-nanwani&theme=alduin" alt="rahul-nanwani" /></a>
 <br>
 </p>
-<h3 align="left"><hr>Contact:</h3>
-<p align="left">
-<a href="mailto:rahulnanwani@icloud.com" target="_blank"><img src="https://img.shields.io/badge/rahulnanwani%40icloud.com-grey?style=for-the-badge1&logo=apple" /></a>
-<!--
-<a href="https://discordapp.com/users/458279513349160963" target="_blank"><img src="https://img.shields.io/badge/Discord-WOLF%231830-7289DA?logo=discord&style=for-the-badge1" /></a>
--->
-<a href="https://twitter.com/inkedmyth" target="_blank"><img src="https://img.shields.io/twitter/follow/inkedmyth?logo=twitter&style=for-the-badge1" alt="inkedmyth" /></a>
+<hr>
+<p align="center">
+<a href="mailto:rahulnanwani@icloud.com" target="_blank"><img src="https://img.shields.io/badge/rahulnanwani%40icloud.com-grey?style=flat-square&logo=apple" /></a>
+<a href="https://discordapp.com/users/458279513349160963" target="_blank"><img src="https://img.shields.io/badge/%236960-5865F2?label=WOLF&logo=discord&style=flat-square" /></a>
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/inkedmyth?label=%40inkedmyth&logo=twitter&style=flat-square">
 </p>
